@@ -1,5 +1,5 @@
 {
-    "name": "sylius/content-bundle",
+    "name": "liverbool/content-bundle",
     "type": "symfony-bundle",
     "description": "Sylius content bundle.",
     "keywords": ["shop", "ecommerce", "store", "webshop", "sylius"],
